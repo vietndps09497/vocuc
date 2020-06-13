@@ -1,10 +1,12 @@
-﻿# vocuc
-1. congcong
-2. thiengthieng
-3. vietviet1rrqrq14
-4. z;lkjhgfdfefwegwge
-5. asdfghjklgưedgwgegege
-6.mvlmvskdsdkvsnk
-7.trieutrieugưegwegew
-8. Fuck you bit
-10.cut cho 
+# vocucvar data = [ 
+{Say= "ok",
+Do = "tks you"},
+{Say= "keep you mind",
+Do = "ok i know "},
+{Say= "what time now",
+Do = "shut up"},
+{Say= "how old are you",
+Do = "2min 3sec"},
+{Say= "bye",
+Do = "fuck off"}
+]
