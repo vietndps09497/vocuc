@@ -1,4 +1,5 @@
-# vocucvar data = [ 
+# vocuc
+var data = [ 
 {Say= "ok",
 Do = "tks you"},
 {Say= "keep you mind",
